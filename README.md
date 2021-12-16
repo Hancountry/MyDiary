@@ -22,7 +22,7 @@
             str=new String(fileData); 
             // 파일을 읽는 메소드 
             
-            버튼이나 입력칸과 같은 요소들을 invisible로 설정해놓고 상황에 맞게 화면에 띄움.
+버튼이나 입력칸과 같은 요소들을 invisible로 설정해놓고 상황에 맞게 화면에 띄움.
             
              calendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
             @Override
@@ -38,15 +38,11 @@
                 checkDay(year,month,dayOfMonth);
             }
         });
-        
-      - 초반에 기획했을 당시 9개의 표정 버튼을 만들어서 기분을 기록하는 일기장을 만들고 싶었으나 실력이 미흡한 나머지 알 수 없는 오류들이 많아졌습니다. 
+- 초반에 기획했을 당시 9개의 표정 버튼을 만들어서 기분을 기록하는 일기장을 만들고 싶었으나 실력이 미흡한 나머지 알 수 없는 오류들이 많아졌습니다. 
       고치려고 많이 노력했는데 건들면 건들수록 더 악화되기만해서 가장 기본만 남기게 되었습니다.. 앞으로 더 열심히 공부하겠습니다 죄송합니다
       
-      
-      
-      
-      ![angry](https://user-images.githubusercontent.com/95368466/146389079-dcff1c78-c5f1-4e9f-836c-70c781caca2a.jpeg)
-      삽입하려 했던 버튼 이미지 중 하나입니다.
+![angry](https://user-images.githubusercontent.com/95368466/146389079-dcff1c78-c5f1-4e9f-836c-70c781caca2a.jpeg)
+삽입하려 했던 버튼 이미지 중 하나입니다.
       
       
             
