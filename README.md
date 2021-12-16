@@ -1,4 +1,5 @@
 # 프로젝트 명: MyDiary
+## 발표영상 링크: https://youtu.be/Rw7BHSdrxsQ 
 
 목적: 캘린더 뷰를 사용한 일기장 만들기
 
@@ -43,6 +44,8 @@
       
 ![angry](https://user-images.githubusercontent.com/95368466/146389079-dcff1c78-c5f1-4e9f-836c-70c781caca2a.jpeg)
 삽입하려 했던 버튼 이미지 중 하나입니다.
+
+
       
       
             
